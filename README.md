@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 # About Me 👨‍💻
 
 Hello there! 👋 I'm Mohammad, a 25-year-old Python developer with a passion for coding and a deep understanding of the Iran stock market, securities, and funds. 🐍💼
@@ -36,4 +35,4 @@ I enjoy crafting solutions with Python and applying my financial expertise to de
 ## Let's Connect
 
 Feel free to reach out if you have questions about the Iran stock market, securities, or funds. I'm always open to discussions and collaborations. Connect with me on [LinkedIn](https://www.linkedin.com/in/mohammad-babaee-4551131b2/) 🚀
--->
+

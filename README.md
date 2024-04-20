@@ -3,7 +3,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammababaee" alt="mohammababaee" /></a> </p>
 
+- 🔭 I’m currently working on [afshan_traders](https://github.com/mohammababaee/afshan_traders)
+
+- 🌱 I’m currently learning **K8s and Devops**
+
+- 👨‍💻 All of my projects are available at [https://github.com/mohammababaee](https://github.com/mohammababaee)
+
+- 💬 Ask me about **Django, python**
+
 - 📫 How to reach me **mohammadbabaeesem@gmail.com**
+
+- ⚡ Fun fact **I enjoy playing games all days**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
